@@ -1,0 +1,3 @@
+# rule to ignore emacs temporary file
+*~
+
